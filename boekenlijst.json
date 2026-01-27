@@ -1,0 +1,270 @@
+{
+  "studiejaar": "2025-2026",
+  "totaalprijs": 844.40,
+  "boeken": [
+    {
+      "type": "boek",
+      "vak": "ICT Project - Bedrijfsprocessen modelleren",
+      "titel": "Kijk op bedrijfsprocessen 3e druk",
+      "auteur": "Marc Mittelmeijer, Rob van Stratum",
+      "isbn": "9789001845063",
+      "uitgever": "Noordhoff Uitgevers B.V.",
+      "prijs": 72.95,
+      "periodes": {
+        "jaar1": [
+          "P1",
+          "P2"
+        ],
+        "jaar2": [],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Functioneel beheer",
+      "titel": "BISL® - Een framework voor business informatiemanagement 2e herziene druk",
+      "auteur": "Remko van der Pols, Ralph Donatz en Frank van Outvorst",
+      "isbn": "9789087536879",
+      "uitgever": "BISL",
+      "prijs": 49.00,
+      "periodes": {
+        "jaar1": [],
+        "jaar2": [
+          "P1"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Basiskennis ICT",
+      "titel": "Informatiemanagement - Editie 7",
+      "auteur": "Roel Grit",
+      "isbn": "9789001023812",
+      "uitgever": "Noordhoff Uitgevers B.V.",
+      "prijs": 52.95,
+      "periodes": {
+        "jaar1": [
+          "P1"
+        ],
+        "jaar2": [],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Bedrijfseconomie",
+      "titel": "Introductie Basisbegrippen bedrijfseconomie & bedrijfsadministratie",
+      "auteur": "A.W.W. Heezen",
+      "isbn": "978-90-0184-179-9",
+      "uitgever": "Noordhoff Uitgevers B.V.",
+      "prijs": 77.95,
+      "periodes": {
+        "jaar1": [
+          "P2"
+        ],
+        "jaar2": [],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Bestuurlijke Informatievoorziening",
+      "titel": "Grondslagen AO Deel B processen en systemen",
+      "auteur": "Bast & Nijland",
+      "isbn": "9789001591021",
+      "uitgever": "Noordhoff Uitgevers B.V.",
+      "prijs": 98.95,
+      "periodes": {
+        "jaar1": [
+          "P4"
+        ],
+        "jaar2": [
+          "P1"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Requirements management",
+      "titel": "Succes met de requirements 3e herziene druk",
+      "auteur": "Martin Arendsen",
+      "isbn": "9789012584883",
+      "uitgever": "Pearson",
+      "prijs": 67.95,
+      "periodes": {
+        "jaar1": [],
+        "jaar2": [
+          "P2"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Systeemontwikkeling",
+      "titel": "Aan de slag met Scrum",
+      "auteur": "Hendrik Jan van Randen",
+      "isbn": "9789024445974",
+      "uitgever": "Boom uitgevers",
+      "prijs": 35.95,
+      "periodes": {
+        "jaar1": [
+          "P3"
+        ],
+        "jaar2": [
+          "P1",
+          "P2"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Software testen",
+      "titel": "Aan de slag met software testen",
+      "auteur": "Hossein Chamani, Gerard Kruijff, Ger Oosting, Jos van Rooyen",
+      "isbn": "9789024445592",
+      "uitgever": "Academic Service",
+      "prijs": 49.95,
+      "periodes": {
+        "jaar1": [
+          "P3"
+        ],
+        "jaar2": [],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "online",
+      "vak": "Windows Programmeren / Programmeer Principes",
+      "titel": "Zie Scherp Scherper",
+      "auteur": "Tim Dams",
+      "isbn": null,
+      "uitgever": null,
+      "prijs": 0,
+      "url": "https://apwt.gitbook.io/zie-scherp-scherper",
+      "periodes": {
+        "jaar1": [
+          "P2",
+          "P4"
+        ],
+        "jaar2": [],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Management & Organisatie",
+      "titel": "Inleiding Organisatiekunde",
+      "auteur": "Loek ten Berge, Marco Oteman e.a.",
+      "isbn": "9789046907382",
+      "uitgever": "Coutinho Uitgeverij",
+      "prijs": 43.50,
+      "optioneel": true,
+      "periodes": {
+        "jaar1": [],
+        "jaar2": [
+          "P1"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Bedrijfsprocessen analyseren & minor BPM",
+      "titel": "Procesmanagement in de Praktijk",
+      "auteur": "Hugo Hendriks",
+      "isbn": "9789055163083",
+      "uitgever": "Concept Uitgeefgroep",
+      "prijs": 66.25,
+      "optioneel": true,
+      "periodes": {
+        "jaar1": [],
+        "jaar2": [
+          "P2"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "BI en Big data",
+      "titel": "Leerboek Business Intelligence",
+      "auteur": "Peter Ter Braake",
+      "isbn": "9789024419258",
+      "uitgever": "Boom uitgevers Amsterdam",
+      "prijs": 38.50,
+      "periodes": {
+        "jaar1": [],
+        "jaar2": [
+          "P3",
+          "P4"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "activiteit",
+      "vak": "Professionele Vaardigheden jaar 1",
+      "titel": "Outdoordag - Nova Zembla - 1 dag",
+      "organisatie": "PBN Outdoor",
+      "prijs": 60.00,
+      "opmerking": "Betalingsverzoek tijdens eerste lessen Professionele Vaardigheden",
+      "periodes": {
+        "jaar1": [
+          "P1"
+        ],
+        "jaar2": [],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "activiteit",
+      "vak": "Professionele Vaardigheden jaar 2",
+      "titel": "Outdoordag - 1 dag",
+      "organisatie": "NTB",
+      "prijs": 75.00,
+      "opmerking": "Betalingsverzoek tijdens eerste lessen Professionele Vaardigheden",
+      "periodes": {
+        "jaar1": [],
+        "jaar2": [
+          "P1"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Datawarehouse modelleren en practicum",
+      "titel": "Database modelleren",
+      "auteur": "Peter Ter Braake",
+      "isbn": "9789024429554",
+      "uitgever": "Boom hoger onderwijs",
+      "prijs": 55.50,
+      "periodes": {
+        "jaar1": [],
+        "jaar2": [
+          "P4"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    }
+  ]
+}

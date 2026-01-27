@@ -1,0 +1,398 @@
+{
+    "opleiding": "Business IT & Management",
+    "locatie": "Alkmaar",
+    "variant": "Voltijd",
+    "studiejaar": "2025-2026",
+    "totaalEC": 240,
+    "jaar1": {
+        "naam": "Propedeuse",
+        "cohort": 2025,
+        "ec": 60,
+        "periodes": {
+            "P1": {
+                "vakken": [
+                    {
+                        "code": "1924BI112A",
+                        "naam": "Basiskennis ICT",
+                        "ec": 2,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1924ITBPRA",
+                        "naam": "IT Beheerprincipes",
+                        "ec": 2,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1925RAPPRA",
+                        "naam": "Rapporteren en presenteren",
+                        "ec": 2,
+                        "toets": "Schriftelijk zonder zitting"
+                    },
+                    {
+                        "code": "1925PROF1A",
+                        "naam": "Professionele Vaardigheden 1A",
+                        "ec": null,
+                        "toets": "Schriftelijk zonder zitting",
+                        "jaartoets": true
+                    },
+                    {
+                        "code": "1925PROJ1A",
+                        "naam": "ICT project 1",
+                        "ec": 7,
+                        "toets": "Andere wijze"
+                    }
+                ]
+            },
+            "P2": {
+                "vakken": [
+                    {
+                        "code": "1922PROPRA",
+                        "naam": "Programmeerprincipes",
+                        "ec": 3,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1922INTTRA",
+                        "naam": "Interviewen en transcriberen",
+                        "ec": 3,
+                        "toets": "Schriftelijk zonder zitting"
+                    },
+                    {
+                        "code": "1918BI129A",
+                        "naam": "Bedrijfseconomie",
+                        "ec": 3,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1925LECH1A",
+                        "naam": "BIM Learning Challenge 1",
+                        "ec": 1,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true
+                    },
+                    {
+                        "code": "1925PROJ2A",
+                        "naam": "ICT project 2",
+                        "ec": 5,
+                        "toets": "Andere wijze"
+                    },
+                    {
+                        "code": "1925PROF1B",
+                        "naam": "Professionele Vaardigheden 1B",
+                        "ec": null,
+                        "toets": "Schriftelijk zonder zitting",
+                        "jaartoets": true
+                    }
+                ]
+            },
+            "P3": {
+                "vakken": [
+                    {
+                        "code": "1922WINPRA",
+                        "naam": "Windows programmeren",
+                        "ec": 3,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1925USERXA",
+                        "naam": "User eXperience",
+                        "ec": 2,
+                        "toets": "Schriftelijk zonder zitting"
+                    },
+                    {
+                        "code": "1921SYSMTA",
+                        "naam": "Systeemontwikkelmethoden",
+                        "ec": 2,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1915BI226A",
+                        "naam": "Software testen",
+                        "ec": 2,
+                        "toets": "Schriftelijk"
+                    }
+                ]
+            },
+            "P4": {
+                "vakken": [
+                    {
+                        "code": "1922PRDATA",
+                        "naam": "Programmeren op databases",
+                        "ec": 4,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1921BIVHBA",
+                        "naam": "BIV- Handelsbedrijf",
+                        "ec": 3,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1924PRBEDA",
+                        "naam": "Project Bedrijfsapplicatie",
+                        "ec": 10,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true
+                    },
+                    {
+                        "code": "1924PRON2A",
+                        "naam": "Professionele Vaardigheden 2A",
+                        "ec": 2,
+                        "toets": "Schriftelijk zonder zitting",
+                        "jaartoets": true
+                    },
+                    {
+                        "code": "1925PROF2B",
+                        "naam": "Professionele Vaardigheden 2B",
+                        "ec": null,
+                        "toets": "Schriftelijk zonder zitting",
+                        "jaartoets": true
+                    },
+                    {
+                        "code": "1920OCYCLA",
+                        "naam": "Onderzoekscyclus",
+                        "ec": 2,
+                        "toets": "Andere Wijze"
+                    }
+                ]
+            }
+        }
+    },
+    "jaar2": {
+        "naam": "Hoofdfase",
+        "cohort": 2024,
+        "ec": 60,
+        "periodes": {
+            "P1": {
+                "vakken": [
+                    {
+                        "code": "1920BUSDMA",
+                        "naam": "Business oriented data modeling",
+                        "ec": 2,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1914BI124A",
+                        "naam": "Management en organisatie",
+                        "ec": 2,
+                        "toets": "Schriftelijk zonder zitting"
+                    },
+                    {
+                        "code": "1920BIVDVA",
+                        "naam": "BIV-Dienstverlening",
+                        "ec": 2,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1924FUNBHA",
+                        "naam": "Functioneel beheer",
+                        "ec": 3,
+                        "toets": "Andere wijze"
+                    }
+                ]
+            },
+            "P2": {
+                "vakken": [
+                    {
+                        "code": "1920SQLPFA",
+                        "naam": "SQL Portfolio",
+                        "ec": 2,
+                        "toets": "Schriftelijk zonder zitting"
+                    },
+                    {
+                        "code": "1915BI225A",
+                        "naam": "SQL Server Advanced",
+                        "ec": 3,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1924BPANAA",
+                        "naam": "Bedrijfsprocessen analyseren",
+                        "ec": 2,
+                        "toets": "Schriftelijk zonder zitting"
+                    },
+                    {
+                        "code": "1924PRASDA",
+                        "naam": "Project Agile Software Development",
+                        "ec": 10,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true
+                    },
+                    {
+                        "code": "1920RQMNGA",
+                        "naam": "Requirements management",
+                        "ec": 2,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1924BMLC2A",
+                        "naam": "BIM Learning Challenge 2",
+                        "ec": 1,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true
+                    },
+                    {
+                        "code": "1924PROF3A",
+                        "naam": "Professionele vaardigheden 3",
+                        "ec": 1,
+                        "toets": "Schriftelijk zonder zitting",
+                        "jaartoets": true
+                    }
+                ]
+            },
+            "P3": {
+                "vakken": [
+                    {
+                        "code": "1921ARGDBA",
+                        "naam": "Argumenteren en debatteren",
+                        "ec": 2,
+                        "toets": "Andere Wijze"
+                    },
+                    {
+                        "code": "1924BUSDIA",
+                        "naam": "Business data integration",
+                        "ec": 3,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1918PERFMA",
+                        "naam": "Performance management",
+                        "ec": 3,
+                        "toets": "Andere Wijze"
+                    },
+                    {
+                        "code": "1918BI240A",
+                        "naam": "Statistiek",
+                        "ec": 2,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1924DAMANA",
+                        "naam": "Data management",
+                        "ec": 3,
+                        "toets": "Schriftelijk"
+                    }
+                ]
+            },
+            "P4": {
+                "vakken": [
+                    {
+                        "code": "1925DATAWA",
+                        "naam": "Datawarehouses",
+                        "ec": 2,
+                        "toets": "Schriftelijk"
+                    },
+                    {
+                        "code": "1924PRREPA",
+                        "naam": "Project Reporting",
+                        "ec": 7,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true
+                    },
+                    {
+                        "code": "1924PRON4A",
+                        "naam": "Professionele vaardigheden 4",
+                        "ec": 1,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true
+                    },
+                    {
+                        "code": "1924ONDVMA",
+                        "naam": "Onderzoekend vermogen",
+                        "ec": 2,
+                        "toets": "Andere wijze"
+                    },
+                    {
+                        "code": "1924DAANAA",
+                        "naam": "Data analytics",
+                        "ec": 5,
+                        "toets": "Andere wijze"
+                    }
+                ]
+            }
+        }
+    },
+    "jaar3": {
+        "naam": "Stage & Minor",
+        "cohort": 2023,
+        "ec": 60,
+        "periodes": {
+            "P1-P2": {
+                "vakken": [
+                    {
+                        "code": "1923STAGEA",
+                        "naam": "Beroepsopleidende stage",
+                        "ec": 30,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true,
+                        "duur": "5 maanden"
+                    }
+                ]
+            },
+            "P3-P4": {
+                "vakken": [
+                    {
+                        "code": "1924BPRMAA",
+                        "naam": "Minor Business Process Management",
+                        "ec": 30,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true
+                    }
+                ]
+            }
+        }
+    },
+    "jaar4": {
+        "naam": "Specialisatie & Afstuderen",
+        "cohort": 2022,
+        "ec": 60,
+        "periodes": {
+            "P1-P2": {
+                "vakken": [
+                    {
+                        "code": "1922DSBITA",
+                        "naam": "Data Science for Business IT",
+                        "ec": 30,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true,
+                        "opmerking": "Verplichte minor voor BIM"
+                    }
+                ]
+            },
+            "P3-P4": {
+                "vakken": [
+                    {
+                        "code": "1922AFSTUA",
+                        "naam": "Afstuderen",
+                        "ec": 30,
+                        "toets": "Andere Wijze",
+                        "jaartoets": true
+                    }
+                ]
+            }
+        }
+    },
+    "minorBPM": {
+        "naam": "Business Process Management",
+        "studiejaar": "2024-2025",
+        "doel": "Bedrijfsprocessen leren analyseren, problemen definiëren en passende (IT) oplossingen zoeken",
+        "voorwaarden": [
+            "Propedeuse behaald",
+            "45 punten in jaar 2 inclusief BI-project"
+        ],
+        "opzet": "In de minor BPM staat een 'probleem' van een bestaande organisatie centraal. Je werkt in groepsverband toe naar een veranderplan.",
+        "fases": [
+            "Ontdekken",
+            "Ontwerpen",
+            "Ontwikkelen",
+            "Opleveren"
+        ],
+        "eindproduct": "Werkend en getest prototype + getest veranderplan"
+    },
+    "toetsvormen": {
+        "S": "Schriftelijk tentamen",
+        "SZ": "Schriftelijk zonder zitting (digitaal/thuis)",
+        "AW": "Andere wijze (project/portfolio/presentatie)"
+    }
+}
