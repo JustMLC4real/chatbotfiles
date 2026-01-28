@@ -32,7 +32,7 @@
                     {
                         "code": "1925PROF1A",
                         "naam": "Professionele Vaardigheden 1A",
-                        "ec": null,
+                        "ec": 2,
                         "toets": "Schriftelijk zonder zitting",
                         "jaartoets": true
                     },
@@ -396,3 +396,4 @@
         "AW": "Andere wijze (project/portfolio/presentatie)"
     }
 }
+
