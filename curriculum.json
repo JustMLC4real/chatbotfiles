@@ -37,6 +37,13 @@
                         "jaartoets": true
                     },
                     {
+                        "code": "1925PROF1B",
+                        "naam": "Professionele Vaardigheden 1B",
+                        "ec": null,
+                        "toets": "Schriftelijk zonder zitting",
+                        "jaartoets": true
+                    },
+                    {
                         "code": "1925PROJ1A",
                         "naam": "ICT project 1",
                         "ec": 7,
@@ -76,13 +83,6 @@
                         "naam": "ICT project 2",
                         "ec": 5,
                         "toets": "Andere wijze"
-                    },
-                    {
-                        "code": "1925PROF1B",
-                        "naam": "Professionele Vaardigheden 1B",
-                        "ec": null,
-                        "toets": "Schriftelijk zonder zitting",
-                        "jaartoets": true
                     }
                 ]
             },
