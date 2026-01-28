@@ -12,10 +12,11 @@
       "prijs": 72.95,
       "periodes": {
         "jaar1": [
-          "P1",
-          "P2"
+          "P1"
         ],
-        "jaar2": [],
+        "jaar2": [
+          "P1"
+        ],
         "jaar3": [],
         "jaar4": []
       }
@@ -117,7 +118,8 @@
       "prijs": 35.95,
       "periodes": {
         "jaar1": [
-          "P3"
+          "P3",
+          "P4"
         ],
         "jaar2": [
           "P1",
@@ -137,16 +139,20 @@
       "prijs": 49.95,
       "periodes": {
         "jaar1": [
-          "P3"
+          "P3",
+          "P4"
         ],
-        "jaar2": [],
+        "jaar2": [
+          "P1",
+          "P2"
+        ],
         "jaar3": [],
         "jaar4": []
       }
     },
     {
       "type": "online",
-      "vak": "Windows Programmeren / Programmeer Principes",
+      "vak": "Windows Programmeren",
       "titel": "Zie Scherp Scherper",
       "auteur": "Tim Dams",
       "isbn": null,
@@ -155,8 +161,31 @@
       "url": "https://apwt.gitbook.io/zie-scherp-scherper",
       "periodes": {
         "jaar1": [
+          "P1",
           "P2",
-          "P4"
+          "P3"
+        ],
+        "jaar2": [
+          "P1"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "online",
+      "vak": "Programmeer Principes",
+      "titel": "Zie Scherp Scherper (zie Windows Programmeren)",
+      "auteur": "Tim Dams",
+      "isbn": null,
+      "uitgever": null,
+      "prijs": 0,
+      "url": "https://apwt.gitbook.io/zie-scherp-scherper",
+      "periodes": {
+        "jaar1": [
+          "P1",
+          "P2",
+          "P3"
         ],
         "jaar2": [],
         "jaar3": [],
@@ -210,7 +239,26 @@
       "periodes": {
         "jaar1": [],
         "jaar2": [
-          "P3",
+          "P4"
+        ],
+        "jaar3": [],
+        "jaar4": []
+      }
+    },
+    {
+      "type": "boek",
+      "vak": "Datawarehouse modelleren en practicum",
+      "titel": "Database modelleren",
+      "auteur": "Peter Ter Braake",
+      "isbn": "9789024429554",
+      "uitgever": "Boom hoger onderwijs",
+      "prijs": 55.50,
+      "periodes": {
+        "jaar1": [
+          "P2"
+        ],
+        "jaar2": [
+          "P1",
           "P4"
         ],
         "jaar3": [],
@@ -240,23 +288,6 @@
       "organisatie": "NTB",
       "prijs": 75.00,
       "opmerking": "Betalingsverzoek tijdens eerste lessen Professionele Vaardigheden",
-      "periodes": {
-        "jaar1": [],
-        "jaar2": [
-          "P1"
-        ],
-        "jaar3": [],
-        "jaar4": []
-      }
-    },
-    {
-      "type": "boek",
-      "vak": "Datawarehouse modelleren en practicum",
-      "titel": "Database modelleren",
-      "auteur": "Peter Ter Braake",
-      "isbn": "9789024429554",
-      "uitgever": "Boom hoger onderwijs",
-      "prijs": 55.50,
       "periodes": {
         "jaar1": [],
         "jaar2": [
