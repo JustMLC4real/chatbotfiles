@@ -1,0 +1,488 @@
+[
+    {
+        "bedrijf": "ICTvanafmorgen",
+        "adres": "Marconiestraat 16, 1821BX Alkmaar",
+        "email": "mvanbasten@ictvanafmorgen.nl",
+        "telefoon": "072 3030343"
+    },
+    {
+        "bedrijf": "Media Buying Systems",
+        "adres": "Danzigerbocht 45C, 1013 AM Amsterdam",
+        "email": "knaar@mediabuyingsystems.nl",
+        "telefoon": "06-11771571"
+    },
+    {
+        "bedrijf": "Gemeente Alkmaar",
+        "adres": "Mallegatsplein 10, 1118 CB Alkmaar",
+        "email": "nhendriks@alkmaar.nl",
+        "telefoon": "14072"
+    },
+    {
+        "bedrijf": "Schipper Kozijnen",
+        "adres": "De Veken 201, 1716 KJ Opmeer",
+        "email": "timar.scholten@schipperkozijnen.nl",
+        "telefoon": "0226-360414"
+    },
+    {
+        "bedrijf": "Betty blocks",
+        "adres": "Pettermerstraat 7, 1823 CW Alkmaar",
+        "email": "stefan.zijlstra@bettyblocks.com",
+        "telefoon": "06-41304031"
+    },
+    {
+        "bedrijf": "Provincie Noord holland",
+        "adres": "Houtplein 23, 2012 DE Haarlem",
+        "email": "chanka@noord-holland.nl",
+        "telefoon": "06-46322942"
+    },
+    {
+        "bedrijf": "RCI Financial Services",
+        "adres": "1119 PD Schiphol-rijk",
+        "email": null,
+        "telefoon": null
+    },
+    {
+        "bedrijf": "Alcomex veren bv",
+        "adres": "De Veken 109, 1716 KG Opmeer",
+        "email": "w.devriend@alcomax.nl",
+        "telefoon": "0226-351122"
+    },
+    {
+        "bedrijf": "Triple",
+        "adres": "Keesomstraat 10/e, 1821 BS Alkmaar",
+        "email": null,
+        "telefoon": null
+    },
+    {
+        "bedrijf": "KPN COE RPA",
+        "adres": "Wilhelminakade 123, 3072 AR Rotterdam",
+        "email": "jan.los@kpn.com",
+        "telefoon": "06-13098760"
+    },
+    {
+        "bedrijf": "EY",
+        "adres": "Antonio Vivaldistraat 150, 1083HP Amsterdam",
+        "email": "tijmen.baas@nl.ey.com",
+        "telefoon": "06-55442129"
+    },
+    {
+        "bedrijf": "Terra technica (Petra Bijvoet)",
+        "adres": "Alkmaar",
+        "email": "petra.bijvoet@inholland.nl",
+        "telefoon": "06-15279457"
+    },
+    {
+        "bedrijf": "KPN",
+        "adres": "Wilhelminakade 123, 3072 AP Rotterdam",
+        "email": "mehrnaz.zandiehdoulabi@kpn.com",
+        "telefoon": "06-22512751"
+    },
+    {
+        "bedrijf": "Syntrus Achmea",
+        "adres": "Gatwickstraat 1, 1043GK Amsterdam",
+        "email": "Saida.Ahammout@achmea.nl",
+        "telefoon": "06-12852876"
+    },
+    {
+        "bedrijf": "Stater",
+        "adres": "Podium 1, 3826PA Amersfoort",
+        "email": "h.bos@stater.nl",
+        "telefoon": "06-10585304"
+    },
+    {
+        "bedrijf": "Rietlanden Terminals B.V.",
+        "adres": "Westpoortweg 502, 1047 HB Amsterdam",
+        "email": "jeroenvanbakkum@rietlanden.nl",
+        "telefoon": "020-4808800"
+    },
+    {
+        "bedrijf": "Nedvice",
+        "adres": "Havinghastraat 24, 1817 DA Alkmaar",
+        "email": "t.groot@nedvice.nl",
+        "telefoon": null
+    },
+    {
+        "bedrijf": "Relesys",
+        "adres": "Bakkersstraat 23, 1017 CV Amsterdam",
+        "email": "ams@relesys.net",
+        "telefoon": "020-7008246"
+    },
+    {
+        "bedrijf": "SDG Reigersdael",
+        "adres": "J. Duikerweg 1, 1703 DH Heerhugowaard",
+        "email": "Lennard.Ilario@esdege-reigersdaal.nl",
+        "telefoon": "0226-332000"
+    },
+    {
+        "bedrijf": "Compri Aluminium",
+        "adres": "Aambeeld 20, 1671NT Medemblik",
+        "email": "arvid@compri.eu",
+        "telefoon": "06-44416575"
+    },
+    {
+        "bedrijf": "NH 1816 Verzekeringen",
+        "adres": "Dorpsstraat 820, 1724 ZG Oudkarspel",
+        "email": "jerre.veltman@nh1816.nl",
+        "telefoon": "0226-331880"
+    },
+    {
+        "bedrijf": "Verzuimteam.nl",
+        "adres": "Havinghastraat 56, 1817DA Alkmaar",
+        "email": "h.zonneveld@verzuimteam.nl",
+        "telefoon": "06-30726520"
+    },
+    {
+        "bedrijf": "Koster Industrial Textiles B.V.",
+        "adres": "Schrepel 1, 1648GC De Goorn",
+        "email": "bschilder@b-s-b.nl",
+        "telefoon": "0229-281081"
+    },
+    {
+        "bedrijf": "Macaw",
+        "adres": "Taurusavenue 16e, 2132 LS Hoofddorp",
+        "email": "rob.antes@macaw.nl",
+        "telefoon": "023-2060600"
+    },
+    {
+        "bedrijf": "Eguermin",
+        "adres": "3de & 23ste Linieregimentsplein, 8400 Oostende (België)",
+        "email": "hcm.feitsma.01@mindef.nl",
+        "telefoon": "+32 (0)2 44 31138"
+    },
+    {
+        "bedrijf": "De Alliantie",
+        "adres": "Helmholtzstraat 61a, 1098 LE Amsterdam",
+        "email": "fstoffels@de-alliantie.nl",
+        "telefoon": "06-53273670"
+    },
+    {
+        "bedrijf": "Ernst Young",
+        "adres": "Antonio Vivaldistraat 150, 1083 HP Amsterdam",
+        "email": "jurgen.diters@nl.ey.com",
+        "telefoon": "06-29083079"
+    },
+    {
+        "bedrijf": "ENGIE Services West BV",
+        "adres": "Houthavenkade 44, 1506 PD Zaandam",
+        "email": "Rogier.stam@engie.com",
+        "telefoon": "06-22605785"
+    },
+    {
+        "bedrijf": "Encis",
+        "adres": "Grote Noord 9, 1621 KD Hoorn",
+        "email": "j.kluft@encis.nl",
+        "telefoon": "06-27453816"
+    },
+    {
+        "bedrijf": "K_Dekker",
+        "adres": "Oudevaart 91, 1749 ZG Warmenhuizen",
+        "email": "rklijboer@kdbv.nl",
+        "telefoon": "0226-391629"
+    },
+    {
+        "bedrijf": "Abacus Medicine",
+        "adres": "Keesomstraat 6D, 1821 BS Alkmaar",
+        "email": "bart.bruinenberg@abacusmedicine.com",
+        "telefoon": "06-11704053"
+    },
+    {
+        "bedrijf": "ECW Netwerk",
+        "adres": "Agriport 109, 1775 TA Middenmeer",
+        "email": "w.jonker@ecwenergy.nl",
+        "telefoon": "06-50547753"
+    },
+    {
+        "bedrijf": "Spaansen",
+        "adres": "Scheidersweg 6, 1731 LX Winkel",
+        "email": "m.van.der.linden@spaansen.nl",
+        "telefoon": "0224-541844"
+    },
+    {
+        "bedrijf": "Gereedschapbeheer",
+        "adres": "Bijlestaal 52, 1721 PW Broek op Langedijk",
+        "email": "jaap.smit@mecona.nl",
+        "telefoon": "072-5745772"
+    },
+    {
+        "bedrijf": "Zorgcirkel",
+        "adres": "Van Houtenkade 3, 1814 DE Alkmaar",
+        "email": "m.janssen3@zorgcirkel.com",
+        "telefoon": "088-5597200"
+    },
+    {
+        "bedrijf": "Dutch Technology eXperts",
+        "adres": "Comeniusstraat 14, 1817 MS Alkmaar",
+        "email": "maikel@dtx.nl",
+        "telefoon": "085-4011196"
+    },
+    {
+        "bedrijf": "Inholland IVT",
+        "adres": "2015 CE Haarlem",
+        "email": null,
+        "telefoon": null
+    },
+    {
+        "bedrijf": "Nerds as a Service",
+        "adres": "Pettermerstraat 7, 1823CW Alkmaar",
+        "email": "jeroen@nrds.nl",
+        "telefoon": "088-4654545"
+    },
+    {
+        "bedrijf": "Advitas",
+        "adres": "Arcadialaan 24, 1813 KN Alkmaar",
+        "email": "rdufrasnes@advitas.nl",
+        "telefoon": "072-7440045"
+    },
+    {
+        "bedrijf": "All4running",
+        "adres": "Langestraat 83, 1811 JD Alkmaar",
+        "email": "kars@all4running.nl",
+        "telefoon": "072-5200099"
+    },
+    {
+        "bedrijf": "Bukom Service",
+        "adres": "Celsiusstraat 12, 1704 SB Heerhugowaard",
+        "email": "linkedin@edlfinance.nl",
+        "telefoon": "072-5762560"
+    },
+    {
+        "bedrijf": "PayingIT",
+        "adres": "Kabelweg 21, 1014BA Amsterdam",
+        "email": "r.vandenhoek@payingit.nl",
+        "telefoon": "020-225500"
+    },
+    {
+        "bedrijf": "Ahold Delhaize",
+        "adres": "Provincialeweg 11, 1506 MA Zaandam",
+        "email": "milou.meeuwisse@etos.nl",
+        "telefoon": "075-6414011"
+    },
+    {
+        "bedrijf": "RCI Financial Services",
+        "adres": "Boeingavenue 275, 1119 PD Schiphol-Rijk",
+        "email": "tin.franicevic@rcibanque.com",
+        "telefoon": "020-3549666"
+    },
+    {
+        "bedrijf": "Engie",
+        "adres": "Albert Heijnweg 1, 1507 EH Zaandam",
+        "email": "edwin.zwanenburg@engie.com",
+        "telefoon": "06-13424490"
+    },
+    {
+        "bedrijf": "Gourmet",
+        "adres": "Slimweg 42, 1614 MG Lutjebroek",
+        "email": "info@gourmet.nl",
+        "telefoon": "0228-517386"
+    },
+    {
+        "bedrijf": "Aviateur",
+        "adres": "Vreekesweid 2, 1721 PR Broek op Langedijk",
+        "email": "hr@aviateur.nl",
+        "telefoon": "06-10891663"
+    },
+    {
+        "bedrijf": "Vomar",
+        "adres": "Opaalstraat 15, 1812 RH Alkmaar",
+        "email": "nkouwenhoven@vomar.nl",
+        "telefoon": "072-7502306"
+    },
+    {
+        "bedrijf": "Wind Energy Solutions",
+        "adres": "Spanbroekerweg 162, 1715 GV Spanbroek",
+        "email": "sterrevanderpoll@windenergysolutions.nl",
+        "telefoon": "06-52026628"
+    },
+    {
+        "bedrijf": "Racktime",
+        "adres": "Fluorietweg 35, 1812 RR Alkmaar",
+        "email": "n.duin@racktime.nl",
+        "telefoon": "072-5413939"
+    },
+    {
+        "bedrijf": "Leger des Heils",
+        "adres": "Spoordreef 10, 1315 GN Almere",
+        "email": "martin.bondt@legerdesheils.nl",
+        "telefoon": "06-11086517"
+    },
+    {
+        "bedrijf": "Lectoraat",
+        "adres": "1800 AK Alkmaar",
+        "email": null,
+        "telefoon": null
+    },
+    {
+        "bedrijf": "Guidion Nederland B.V",
+        "adres": "James Wattstraat 77-M, 1097 DL Amsterdam",
+        "email": "rdobbe@guidion.net",
+        "telefoon": "06-15219688"
+    },
+    {
+        "bedrijf": "Argent Energy",
+        "adres": "Hornweg 61, 1044 AN Amsterdam",
+        "email": "marko.brondijk@argentenergie.nl",
+        "telefoon": "06-29270035"
+    },
+    {
+        "bedrijf": "PWN Drinkwaterbedrijf Noord-Holland",
+        "adres": "Rijksweg 501, 1991AS Velserbroek",
+        "email": "diana.van.der.westen@pwn.nl",
+        "telefoon": "06-22013865"
+    },
+    {
+        "bedrijf": "BaanBereik B.V.",
+        "adres": "Handelsstraat 6, 1704AB Heerhugowaard",
+        "email": "mona.roorda@baanbereik.nl",
+        "telefoon": "072-3037777"
+    },
+    {
+        "bedrijf": "GP Groot Sloopwerken en Saneringen BV",
+        "adres": "Hoogeweg 72, 1851PK Heiloo",
+        "email": "b.devilder@gpgroot.nl",
+        "telefoon": "088-4720700"
+    },
+    {
+        "bedrijf": "Musjroom",
+        "adres": "Pastoor Koopmanweg 26, 1784NX Den Helder",
+        "email": "khosrou@musjroom.com",
+        "telefoon": "06-29742896"
+    },
+    {
+        "bedrijf": "Eriks",
+        "adres": "Robonsbosweg 7D, 1816MK Alkmaar",
+        "email": "rene.overwater@eriks.nl",
+        "telefoon": "06-55382565"
+    },
+    {
+        "bedrijf": "Enduro Softslings",
+        "adres": "Schrepel 1 1648GC De Goorn",
+        "email": "svdmolen@softslings.com",
+        "telefoon": "06-53831116"
+    },
+    {
+        "bedrijf": "Simsupplychain",
+        "adres": "Toermalijnstraat 18B, 1812RL Alkmaar",
+        "email": "info@simsupplychain.com",
+        "telefoon": "072-5410390"
+    },
+    {
+        "bedrijf": "Use IT BV",
+        "adres": "Rhôneweg 16 1043AH Amsterdam",
+        "email": "ruud@useit.nl",
+        "telefoon": null
+    },
+    {
+        "bedrijf": "DRM ICT Solutions",
+        "adres": "Het Nieuwe Diep 24, 1781AC Den Helder",
+        "email": "ppsolkesz@drm.nl",
+        "telefoon": "0223-611011"
+    },
+    {
+        "bedrijf": "Giant ICT B.V",
+        "adres": "Jan Duikerweg 1, 1703DH Heerhugowaard",
+        "email": "M.vanderMeer@giant.nl",
+        "telefoon": "072-5751010"
+    },
+    {
+        "bedrijf": "Hoogheemraadschap Hollands Noorderkwartier",
+        "adres": "Bevelandseweg 1, 1703AZ Heerhugowaard",
+        "email": "chris.smit@HHNK.nl",
+        "telefoon": "072-5828282"
+    },
+    {
+        "bedrijf": "Bluedesk",
+        "adres": "Rogier van der Weydestraat 8, 1817MJ Alkmaar",
+        "email": "b.doorn@bluedesk.nl",
+        "telefoon": "072-5200310"
+    },
+    {
+        "bedrijf": "CatchYourTalent",
+        "adres": "Fluorietweg 35, 1812RR Alkmaar",
+        "email": "r.kremer@catchyourtalent.com",
+        "telefoon": "072-5413950"
+    },
+    {
+        "bedrijf": "Stichting De Zorgcirkel",
+        "adres": "Persijnlaan 99 1447EG Purmerend",
+        "email": "d.luitjes@zorgcirkel.com",
+        "telefoon": "072-5185555"
+    },
+    {
+        "bedrijf": "Herke ICT Group",
+        "adres": "Toermalijnstraat 8 1812RL Alkmaar",
+        "email": "t.lambalk@herke.nl",
+        "telefoon": "072-7271100"
+    },
+    {
+        "bedrijf": "SCE Exploitatie BV",
+        "adres": "Haarlemmerstraat 124F, 1013EX",
+        "email": null,
+        "telefoon": null
+    },
+    {
+        "bedrijf": "Abovo Media",
+        "adres": "Dr. C.J.K. van Aalstweg 8F, 1625NV",
+        "email": "guido@abovo.nl",
+        "telefoon": "0229-280277"
+    },
+    {
+        "bedrijf": "VWE Automotive",
+        "adres": "W.M. Dudokweg 37, 1703DA Heerhugowaard",
+        "email": "karin.borst@vwe.nl",
+        "telefoon": "06-12051713"
+    },
+    {
+        "bedrijf": "Atos",
+        "adres": "Burgemeester Rijnderslaan 30, 1185MC Amstelveen",
+        "email": "yvonne.arts@atos.net",
+        "telefoon": null
+    },
+    {
+        "bedrijf": "Herke ISV",
+        "adres": "Toermalijnstraat 8, 1812RL Alkmaar",
+        "email": "r.harkes@herke.nl",
+        "telefoon": "072-7271100"
+    },
+    {
+        "bedrijf": "Media Buying Systems",
+        "adres": "Van Diemenstraat 380, 1013CR Amsterdam",
+        "email": "arthur@themediaexchange.nl",
+        "telefoon": "06-50640409"
+    },
+    {
+        "bedrijf": "True B.V",
+        "adres": "Keienbergweg 100, 1101GH Amsterdam",
+        "email": null,
+        "telefoon": null
+    },
+    {
+        "bedrijf": "ICTZ",
+        "adres": "Veranda 102, 1628JZ Hoorn",
+        "email": "m.vroone@ictz.nl",
+        "telefoon": "088-4646000"
+    },
+    {
+        "bedrijf": "Deloitte Amsterdam",
+        "adres": "Gustav Mahlerlaan 2970, 1081LA Amsterdam",
+        "email": "mreijmers@deloitte.nl",
+        "telefoon": "088-2883563"
+    },
+    {
+        "bedrijf": "bollegraaf recycling solutions",
+        "adres": "Tweede Industrieweg 1, 9902AM Appingedam",
+        "email": "h.v.d.werff@bollegraaf.com",
+        "telefoon": "06-29428703"
+    },
+    {
+        "bedrijf": "Wikor b.v.",
+        "adres": "Handelsweg 1, 1521NH Wormerveer",
+        "email": "info@wikor.nl",
+        "telefoon": null
+    },
+    {
+        "bedrijf": "Qbit",
+        "adres": null,
+        "email": null,
+        "telefoon": null
+    }
+]
