@@ -1,0 +1,85 @@
+{
+    "naam": "Business Process Management (BPM)",
+    "type": "Minor",
+    "jaar": 3,
+    "ec": 30,
+    "taal": "Nederlands",
+    "studiebelasting": "840 studiebelastingsuren (1 EC = 28 SBU)",
+    "beschrijving": "In deze minor werk je aan een praktijkopdracht voor een echte opdrachtgever. Je analyseert bedrijfsprocessen en ontwerpt verbeteringen met prototypes en veranderplannen.",
+    "structuur": {
+        "fasen": [
+            {
+                "fase": 1,
+                "producten": [
+                    "Vooronderzoek met 3 frames",
+                    "Globale planning",
+                    "Ingerichte Kanban omgeving",
+                    "Show&Shine presentatie"
+                ]
+            },
+            {
+                "fase": 2,
+                "producten": [
+                    "Twee geteste concept prototypes",
+                    "Verantwoording",
+                    "Up-to-date Kanban omgeving",
+                    "Show&Shine presentatie"
+                ]
+            },
+            {
+                "fase": 3,
+                "producten": [
+                    "Getest en clickable prototype",
+                    "Veranderplan met implementatie- en communicatieplan",
+                    "Up-to-date Kanban omgeving",
+                    "Show&Shine presentatie"
+                ]
+            }
+        ]
+    },
+    "weekindeling": {
+        "school": "1 dag / 8 uur per week (workshops en consults)",
+        "opdrachtgever": "1 dag / 8 uur per week (zoveel mogelijk op locatie)",
+        "zelfstandig": "3 dagen / 24 uur per week (voorbereiden, literatuur, werken aan producten)"
+    },
+    "aanwezigheid": {
+        "vereist_percentage": 90,
+        "max_afwezigheid": "6 dagdelen (3 op school + 3 bij opdrachtgever)",
+        "te_laat": "Geldt als halve afwezigheid",
+        "consequentie": "Bij overschrijding kan student van deelname worden uitgesloten"
+    },
+    "beoordeling": {
+        "weging": {
+            "beroepsproduct": "70%",
+            "presentatie": "30%"
+        },
+        "cijfer_voldoende": 5.5,
+        "eindcijfer": "Gemiddelde van alle fasen",
+        "peerassessment": "Cijfer wordt individueel aangepast op basis van beoordeling door medestudenten"
+    },
+    "presentaties": {
+        "show_and_share": "Aan docenten en medestudenten - ontvang feedback",
+        "show_and_shine": "Aan opdrachtgever(s), docent(en) en medestudenten - wordt beoordeeld met cijfer"
+    },
+    "herkansing": "Aan het einde van het project, voor alle producten",
+    "literatuur": [
+        {
+            "auteur": "Poelmans, P. en Severijnen, O.",
+            "jaar": 2020,
+            "titel": "De APA-richtlijnen",
+            "uitgever": "Coutinho",
+            "isbn": "9789046907283"
+        },
+        {
+            "auteur": "Henriks, H.",
+            "jaar": 2020,
+            "titel": "Procesmanagement in de praktijk",
+            "uitgever": "Concept Uitgeefgroep",
+            "isbn": "9789055163083"
+        }
+    ],
+    "dossier": "BPM Dossier wordt ingeleverd op Moodle",
+    "contact": {
+        "email": "stage.bim.alkmaar@inholland.nl"
+    }
+}

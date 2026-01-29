@@ -1,0 +1,55 @@
+{
+    "naam": "Data Science for Business IT",
+    "type": "Minor",
+    "jaar": 4,
+    "ec": 30,
+    "taal": "Engels",
+    "locaties": [
+        "Alkmaar",
+        "Amsterdam"
+    ],
+    "periode": "Semester 1 (September - Januari)",
+    "samenwerking": "BIM studenten werken samen met Applied Mathematics (AM) studenten uit Amsterdam",
+    "beschrijving": "In deze minor leer je hoe je data kunt integreren en analyseren voor zakelijke toepassingen. Je fungeert als brug tussen de business en technische data scientists.",
+    "structuur": {
+        "deel1": {
+            "naam": "Data Integration",
+            "weken": "1-8 (voor herfstvakantie)",
+            "focus": "Data integratie, workshops Data Science, kennismaken met klanten"
+        },
+        "deel2": {
+            "naam": "Data Science",
+            "weken": "8-16 (na herfstvakantie)",
+            "focus": "Samenwerking met AM studenten, data science modellen implementeren"
+        }
+    },
+    "workshops": [
+        "Data Science 1-6 (in deel 1)",
+        "Decision Models (in deel 2)"
+    ],
+    "beoordeling": {
+        "aspecten": [
+            "Professionele houding (Professional attitude)",
+            "Professionele ontwikkeling (Professional development)",
+            "Vakkennis (Subject knowledge)"
+        ],
+        "eisen": [
+            "Klant moet akkoord geven (discharge), anders maximaal cijfer 4",
+            "Scrum proces correct toepassen",
+            "Wekelijkse bijdrage transparant maken",
+            "Projectrapport volgens format inleveren op Moodle"
+        ],
+        "herkansing": "Herkansing deel 1 tijdens deel 2, herkansing deel 2 in week 10 van periode 2"
+    },
+    "aanwezigheid": {
+        "verplicht": true,
+        "projectdag": "Wekelijks verplicht",
+        "afwezigheid_regels": "Afwezigheid zonder melding telt mee in procesbeoordeling"
+    },
+    "projectcirkels": "Elke projectdag begint met een projectcirkel (2-3 groepen presenteren voortgang aan elkaar)",
+    "rol_bim_student": "Analyseer business vraag, vertaal naar technische opdracht voor data scientist, vertaal resultaten terug naar business",
+    "rol_am_student": "Implementeert data science algoritmen in Python (beschikbaar voor 5 EC / 1.5 dagen per week)",
+    "contact": {
+        "email": "stage.bim.alkmaar@inholland.nl"
+    }
+}

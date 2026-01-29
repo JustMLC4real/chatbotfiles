@@ -1,0 +1,105 @@
+{
+    "naam": "Stage BIM",
+    "type": "Stage",
+    "jaren": [
+        3,
+        4
+    ],
+    "ec": 30,
+    "duur": "20 weken (minimaal 100 dagen)",
+    "uren_per_week": 40,
+    "beschrijving": "Tijdens de stage pas je de kennis en vaardigheden toe die je tijdens de opleiding hebt opgedaan. Je werkt aan een echte opdracht bij een bedrijf.",
+    "verantwoordelijkheden": {
+        "student": [
+            "Zelf stageplaats vinden",
+            "Stagevoorstel opstellen en indienen",
+            "Stageovereenkomst laten ondertekenen",
+            "Bedrijfsbezoek organiseren (rond week 5)",
+            "Contact onderhouden met stagedocent",
+            "Stageproducten inleveren"
+        ],
+        "bedrijfsbegeleider": [
+            "Dagelijkse begeleiding",
+            "Invullen scorelijsten professionele werkhouding",
+            "Gesprek voeren met stagedocent over beoordeling"
+        ],
+        "stagedocent": [
+            "Stagevoorstel goedkeuren",
+            "Bedrijfsbezoek afleggen",
+            "Tussentijdse evaluatie met student",
+            "Eindbeoordeling vaststellen"
+        ]
+    },
+    "procedure": {
+        "stappen": [
+            "Stageplaats zoeken (vacatures op Moodle of eigen netwerk)",
+            "Stagevoorstel indienen via stage.bim.alkmaar@inholland.nl",
+            "Wachten op goedkeuring stagecommissie",
+            "Stageovereenkomst ondertekenen (uiterlijk maandag week 2)",
+            "Stage starten na officiële goedkeuring",
+            "Bedrijfsbezoek organiseren (rond week 5)",
+            "Eindpresentatie (facultatief, afhankelijk van opdracht)",
+            "Stageproducten inleveren"
+        ],
+        "belangrijk": [
+            "NIET starten zonder officiële goedkeuring!",
+            "Tijd zonder goedkeuring telt niet mee, ook niet achteraf",
+            "Bij grote wijzigingen: opnieuw laten keuren"
+        ]
+    },
+    "producten": {
+        "plan_van_aanpak": {
+            "beschrijving": "Beschrijft definitieve opdracht, aanpak en planning",
+            "scrum": "Bij SCRUM-organisatie: doelstelling, procesafspraken en beoogd eindresultaat opnemen"
+        },
+        "stageverslag": {
+            "onderdelen": [
+                "Opdracht",
+                "Aanpak",
+                "Resultaat"
+            ],
+            "richtlijnen": "APA-richtlijnen volgen",
+            "eisen": "Onafhankelijk leesbaar, logisch opgebouwd"
+        },
+        "reflectieverslag": {
+            "onderdelen": [
+                "Evaluatie (gepland vs. daadwerkelijk)",
+                "Reflectie op persoonlijke en professionele ontwikkeling",
+                "Competentie-ontwikkeling via STARR-methode"
+            ],
+            "competenties": [
+                "Professionaliseren (1 beheersingsindicator)",
+                "Onderzoeken (1 beheersingsindicator)",
+                "Twee relevante beroepscompetenties"
+            ]
+        }
+    },
+    "beoordeling": {
+        "door": "Stagedocent, op basis van beoordelingsformulier",
+        "input": [
+            "Stageproducten",
+            "Scorelijsten bedrijfsbegeleider",
+            "Gesprek met bedrijfsbegeleider"
+        ],
+        "criteria": "Terug te vinden op Moodle"
+    },
+    "problemen": {
+        "eerste_stap": "Bespreek met bedrijfsbegeleider",
+        "tweede_stap": "Neem contact op met stagedocent",
+        "derde_stap": "Escaleer naar stagecoördinator",
+        "persoonlijk": "Decanen Inholland werken op vertrouwelijke basis"
+    },
+    "stageterugkomdag": "Alleen voor studenten die in september starten",
+    "documenten": [
+        "Stagevoorstel",
+        "Stageovereenkomst",
+        "Plan Van Aanpak",
+        "Scorelijst professionele ontwikkeling",
+        "Reflectieverslag",
+        "Format Stageverslag"
+    ],
+    "contact": {
+        "email": "stage.bim.alkmaar@inholland.nl",
+        "moodle": "BIM TI Alkmaar Stage en afstuderen"
+    }
+}
